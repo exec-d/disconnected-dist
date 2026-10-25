@@ -1,5 +1,13 @@
 # Déconnecté
 
+> **Ce dépôt est archivé depuis le 25 octobre 2026.** Il ne reçoit plus de
+> version : Déconnecté se met désormais à jour par le **store vitamin-d**, et
+> ses APK sont publiés sur
+> [get.vitamin-d.cc/disconnected](https://get.vitamin-d.cc/disconnected/).
+> La 0.4.1 est la dernière version publiée ici ; la 0.4.2, signée par la même
+> clé, s'installe par-dessus. Ce qui suit décrit l'époque où l'application se
+> mettait à jour toute seule depuis ce dépôt.
+
 Une application Android qui fait respecter le **droit à la déconnexion** : elle
 retient les notifications de vos applications de travail pendant vos périodes
 de repos, et vous les rend quand vos horaires reprennent.
